@@ -5,7 +5,12 @@ from interface import StartMenu, PickPicture, PickArt, UploadImage
 
 
 if __name__ == '__main__':
+    """
+        Основной модуль программы PhotoPuzzle.
 
+        Запускает цикл интерфейса, позволяющий пользователю выбрать изображение,
+        стиль обработки и запустить преобразование.
+    """
     while True:
         start = StartMenu()
         selected_menu = start.select_event()

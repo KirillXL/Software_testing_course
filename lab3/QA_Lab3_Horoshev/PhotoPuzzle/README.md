@@ -3,6 +3,7 @@
 ![picture1](example/picture1.png)
 
 ### What is it?
+
 It is an application that converts an image into one of the styles (you can keep the original) and uses artificial intelligence to split the image into puzzle pieces that the user then needs to assemble
 
 ### What is done?
